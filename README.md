@@ -1,16 +1,25 @@
-# React + Vite
+# ⚡ Daraz Price/Profit Calculator 2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance, and visually stunning profit calculator built specifically for Daraz Pakistan sellers. This tool helps sellers accurately calculate their payouts, profit margins, Daraz commissions, payment fees, and FBR taxes based on the latest 2026 tax regulations.
 
-Currently, two official plugins are available:
+Featuring a futuristic **Cyberpunk/Neon Glassmorphism** UI theme, it delivers a premium and seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Daraz Calculator Preview](https://daraz-profit-calculator.netlify.app/) ---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Real-time Profit Calculation:** Instantly calculates the net profit and deductions as you input data.
+* **Provincial Tax Variation:** Automatically applies correct provincial sales tax (e.g., Sindh 15%) based on the selected warehouse location.
+* **Dynamic Category Commissions:** Choose from a list of product categories to apply accurate Daraz marketplace commission rates.
+* **FBR Tax Integration:** Handles FBR dynamic tax rates smoothly based on the seller's tax profile status:
+  * **Filer:** 1% Advance Tax
+  * **Non-Filer:** 2% Advance Tax
+* **Payment Fee Calculator:** Factors in standard gateway/payment processing fees (e.g., 2.25%).
+* **Futuristic UI/UX:** Built with a glowing neon aesthetic, glassmorphic card containers, and responsive layouts.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/SandeshKhemaniSuther/Daraz-Profit-Calculator.git)
