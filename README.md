@@ -4,7 +4,7 @@ A modern, high-performance, and visually stunning profit calculator built specif
 
 Featuring a futuristic **Cyberpunk/Neon Glassmorphism** UI theme, it delivers a premium and seamless user experience.
 
-![Daraz Calculator Preview](https://daraz-profit-calculator.netlify.app/) ---
+[Daraz Calculator Demo](https://daraz-profit-calculator.netlify.app/) ---
 
 ## 🚀 Features
 
