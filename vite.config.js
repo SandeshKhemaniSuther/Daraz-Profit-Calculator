@@ -1,9 +1,11 @@
-
 import { defineConfig } from 'vite'
-import tailwindcss from '@tailwindcss/vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite' // 1. Ise import karein
 
+// https://vite.dev/config/
 export default defineConfig({
   plugins: [
-    tailwindcss(),
+    react(),
+    tailwindcss(), // 2. Ise plugins ke array mein add karein
   ],
 })
