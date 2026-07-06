@@ -32,7 +32,7 @@ function App() {
           
           {/* Header Node */}
           <div className="flex flex-col items-center justify-center mb-4 space-y-1.5 shrink-0">
-            <div className="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center bg-slate-950/40 p-2 rounded-lg border border-slate-800/80 shadow-inner">
+            <div className="w-15 h-15 sm:w-12 sm:h-12 flex items-center justify-center bg-slate-950/40 p-2 rounded-lg border border-slate-800/80 shadow-inner">
               <img 
                 src={darazLogo} 
                 alt="Daraz Logo" 
@@ -41,7 +41,7 @@ function App() {
             </div>
             <div className="text-center">
               <h1 className="text-sm sm:text-lg md:text-xl font-black tracking-tight bg-gradient-to-r from-cyan-400 via-fuchsia-400 to-amber-400 bg-clip-text text-transparent uppercase">
-                Electrica Calc Suite
+                Daraz Price & Profit Calculator
               </h1>
               <p className="text-[8px] text-fuchsia-400/80 font-mono uppercase tracking-[0.2em]">Daraz Engine Toolkit</p>
             </div>

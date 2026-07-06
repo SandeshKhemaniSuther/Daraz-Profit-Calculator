@@ -114,7 +114,7 @@ function ProfitCalculator({ onResultChange }) {
 
             <div className="relative" ref={provRef}>
               <label className="block text-[10px] sm:text-[11px] font-bold tracking-wider text-slate-400 uppercase mb-1 font-mono">
-                Warehouse Province
+                Province
               </label>
               <div 
                 onClick={() => setIsProvinceOpen(!isProvinceOpen)}
